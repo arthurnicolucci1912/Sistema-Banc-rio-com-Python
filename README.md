@@ -1,2 +1,2 @@
-# Sistema-Banc-rio-com-Python
+# Sistema-Bancário-com-Python
 Criando um Sistema Bancário com Python simples - DIO
